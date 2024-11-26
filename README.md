@@ -4,7 +4,7 @@
 ###  Script Number 1 - اسکریپت همه کاره شماره 1 
 
 
-`curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/main/node.sh -o node.sh sudo bash node.sh`
+<code>curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/main/node.sh -o node.sh sudo bash node.sh</code>
 ***
 ### Script Number 2 - اسکریپت همه کاره شماره 2 
 
