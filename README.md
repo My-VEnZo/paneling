@@ -9,6 +9,8 @@ curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/ma
 ***
 ### Script Number 2 - اسکریپت همه کاره شماره 2 
 
-`bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/assistant-vps/master/install.sh)`
+ ```
+ bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/assistant-vps/master/install.sh)
+ ```
 ***
 ### Fastly - روش استفاده از فستلی 
