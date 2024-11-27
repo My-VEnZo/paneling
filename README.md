@@ -6,7 +6,9 @@
 ###  Script Number 1 - اسکریپت همه کاره شماره 1 
 
  ```
-curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/main/node.sh -o node.sh sudo bash node.sh
+curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/main/node.sh -o node.sh
+sudo bash node.sh
+
  ```
 ***
 ### Script Number 2 - اسکریپت همه کاره شماره 2 
@@ -17,7 +19,7 @@ curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/ma
 ***
 ### Marzban Node - مرزبان نود 
  ```
-curl -sLO https://raw.githubusercontent.com/ItsAML/MarzbanEZNode/main/run.sh && chmod +x run.sh && ./run.sh
+sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban-node.sh)" @ install
  ```
 ### Marzban ENV - مدریت اسکریپت مرزبان 
  ```
