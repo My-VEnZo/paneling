@@ -29,7 +29,7 @@ nano /opt/marzban/.env
 sudo chmod +x /var/lib/marzban/xray-core/xray
  ```
 ***
-### آموزش سات فستلی 
+### آموزش سایت فستلی 
 ***
 ### Fastly Web site - سایت فستلی 
  ```
