@@ -8,7 +8,6 @@
  ```
 curl -Ls https://raw.githubusercontent.com/Mmdd93/v2ray-assistance/refs/heads/main/node.sh -o node.sh
 sudo bash node.sh
-
  ```
 ***
 ### Script Number 2 - اسکریپت همه کاره شماره 2 
@@ -30,7 +29,10 @@ nano /opt/marzban/.env
 sudo chmod +x /var/lib/marzban/xray-core/xray
  ```
 ***
-
+***
+***
+### آموزش سات فستلی 
+***
 ### Fastly Web site - سایت فستلی 
  ```
 https://fastly.com/ 
